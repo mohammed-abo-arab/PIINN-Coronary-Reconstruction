@@ -1,0 +1,16 @@
+case,inner_in,outer_in,inner_vox_before,outer_vox_before,inner_cc_before,outer_cc_before,inner_vox_after,outer_vox_after,inner_cc_after,outer_cc_after,tolerance_mm,symmetric,keep_largest_component,inner_out,outer_out
+10234_RCA,INNER_clean.nrrd,OUTER_clean.nrrd,2143,3970,1,1,2140,3954,1,1,1.5,TRUE,TRUE,INNER_trimmed.nrrd,OUTER_trimmed.nrrd
+10238_RCA,INNER_clean.nrrd,OUTER_clean.nrrd,16497,22795,1,1,15853,22795,1,1,1.5,TRUE,TRUE,INNER_trimmed.nrrd,OUTER_trimmed.nrrd
+10250_LAD,INNER_clean.nrrd,OUTER_clean.nrrd,6397,10916,1,1,6397,10889,1,1,1.5,TRUE,TRUE,INNER_trimmed.nrrd,OUTER_trimmed.nrrd
+10732_LCX,INNER_clean.nrrd,OUTER_clean.nrrd,12782,20120,1,1,12750,20039,1,1,1.5,TRUE,TRUE,INNER_trimmed.nrrd,OUTER_trimmed.nrrd
+10735_RCA,INNER_clean.nrrd,OUTER_clean.nrrd,14523,20193,1,1,14523,20190,1,1,1.5,TRUE,TRUE,INNER_trimmed.nrrd,OUTER_trimmed.nrrd
+10738_RCA,INNER_clean.nrrd,OUTER_clean.nrrd,32370,45611,1,1,32370,45553,1,1,1.5,TRUE,TRUE,INNER_trimmed.nrrd,OUTER_trimmed.nrrd
+1079_LAD,INNER_clean.nrrd,OUTER_clean.nrrd,11156,20616,1,1,11156,20492,1,1,1.5,TRUE,TRUE,INNER_trimmed.nrrd,OUTER_trimmed.nrrd
+1092_LAD,INNER_clean.nrrd,OUTER_clean.nrrd,5131,8290,1,1,5131,8198,1,1,1.5,TRUE,TRUE,INNER_trimmed.nrrd,OUTER_trimmed.nrrd
+1113_LAD,INNER_clean.nrrd,OUTER_clean.nrrd,6208,15053,1,1,6208,14748,1,1,1.5,TRUE,TRUE,INNER_trimmed.nrrd,OUTER_trimmed.nrrd
+1131_LAD,INNER_clean.nrrd,OUTER_clean.nrrd,7745,10813,1,1,7745,10795,1,1,1.5,TRUE,TRUE,INNER_trimmed.nrrd,OUTER_trimmed.nrrd
+11616_LCX,INNER_clean.nrrd,OUTER_clean.nrrd,9689,20184,1,1,9245,20140,1,1,1.5,TRUE,TRUE,INNER_trimmed.nrrd,OUTER_trimmed.nrrd
+11621_LAD,INNER_clean.nrrd,OUTER_clean.nrrd,10586,19596,1,1,10586,19528,1,1,1.5,TRUE,TRUE,INNER_trimmed.nrrd,OUTER_trimmed.nrrd
+11621_LCX,INNER_clean.nrrd,OUTER_clean.nrrd,5823,8473,1,1,5426,8407,1,1,1.5,TRUE,TRUE,INNER_trimmed.nrrd,OUTER_trimmed.nrrd
+11631_LAD,INNER_clean.nrrd,OUTER_clean.nrrd,7835,14100,1,1,7835,14054,1,1,1.5,TRUE,TRUE,INNER_trimmed.nrrd,OUTER_trimmed.nrrd
+1186_LCX,INNER_clean.nrrd,OUTER_clean.nrrd,2143,3970,1,1,2140,3954,1,1,1.5,TRUE,TRUE,INNER_trimmed.nrrd,OUTER_trimmed.nrrd
